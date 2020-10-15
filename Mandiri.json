@@ -199,9 +199,9 @@
     "id":14,
      "id_guide":"002",
     "nama_cat":"Easy",
-    "judul":"Trik Tersembunyi Lord Mobile MON",
+    "judul":"Bank Mandiri",
     "image":"file:///android_asset/gambar/ml.jpg",
-    "link":"file:///android_asset/guide_2.html",
+    "link":"file:///android_asset/1.Mandiri.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi"
   }
 
