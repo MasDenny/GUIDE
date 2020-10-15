@@ -191,15 +191,19 @@
      "id_guide":"003",
     "nama_cat":"Medium",
     "judul":"Mobile Legend Update",
-    "image":"http://hexa.web.id/lord.jpg",
-    "link":"http://hexa.web.id/guide_2.html",
+    "image":"file:///android_asset/gambar/ml.jpg",
+    "link":"file:///android_asset/1.Mandiri.html",,
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
   },
   {
     "id":14,
      "id_guide":"002",
     "nama_cat":"Easy",
+<<<<<<< HEAD
     "judul":"Bank Mandiri",
+=======
+    "judul":"Pengenalan Bank MANDIRI",
+>>>>>>> 19baf4bfe21d929b663ad521db782bef809d87e9
     "image":"file:///android_asset/gambar/ml.jpg",
     "link":"file:///android_asset/1.Mandiri.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi"
