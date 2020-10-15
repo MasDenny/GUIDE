@@ -199,11 +199,7 @@
     "id":14,
      "id_guide":"002",
     "nama_cat":"Easy",
-<<<<<<< HEAD
-    "judul":"Bank Mandiri",
-=======
     "judul":"Pengenalan Bank MANDIRI",
->>>>>>> 19baf4bfe21d929b663ad521db782bef809d87e9
     "image":"file:///android_asset/gambar/ml.jpg",
     "link":"file:///android_asset/1.Mandiri.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi"
